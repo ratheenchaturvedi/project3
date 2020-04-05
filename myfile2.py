@@ -8,4 +8,5 @@ Created on Sat Apr  4 20:43:03 2020
 def f1(x=10,y=2):
     k1 = x*y
     print("hi")
+    print("hello")
     return(k1)
